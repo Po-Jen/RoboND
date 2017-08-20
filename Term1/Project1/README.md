@@ -11,10 +11,24 @@
 ### Simulator download (DONE)
 Download [Linux simulator build](https://s3-us-west-1.amazonaws.com/udacity-robotics/Rover+Unity+Sims/Linux_Roversim.zip)
 
-### Python (TODO)
+### Python (DONE)
 
 ## Use recorded data to develop
 
-## The perception Step
+## Learning each module
 
-### Read Image
+### Color threshold (DONE)
+
+### Perspectibe Transform (DONE)
+
+### Warp, Threshold and Map (Ongoing)
+
+### Map to World Coordinate
+
+### Decide where to go
+
+### Take actions
+
+### Pick up 
+
+## Real Project!!!

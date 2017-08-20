@@ -1,2 +1,9 @@
 # RoboND
-Fool around a little bit
+
+Make your hands dirty!
+
+## Dive into my env
+
+```
+source activate RoboND
+```

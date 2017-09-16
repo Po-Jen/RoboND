@@ -21,14 +21,15 @@ Download [Linux simulator build](https://s3-us-west-1.amazonaws.com/udacity-robo
 
 ### Perspectibe Transform (DONE)
 
-### Warp, Threshold and Map (Ongoing)
+### Warp, Threshold and Map (Done)
 
-### Map to World Coordinate
+### Map to World Coordinate (Done)
 
-### Decide where to go
+### Decide where to go (Done)
 
-### Take actions
+### Take actions (Done)
 
 ### Pick up 
 
 ## Real Project!!!
+
